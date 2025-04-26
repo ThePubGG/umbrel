@@ -1,0 +1,31 @@
+manifestVersion: 1
+id: thepub-pelican-panel
+name: Pelican Panel
+tagline: Pelican is the ultimate, free game server control panel offering high flying security.
+icon: https://pelican.dev/img/logo.png
+category: Gaming
+version: "1.0.0"
+port: 4040
+description: >-
+  Pelican is the ultimate, free game server control panel offering high flying security.
+
+  It's a breeze to manage your servers with our sleek and user-friendly interface.
+
+  And thanks to Docker, they all run in their own safe space.
+
+developer: Pelican Team
+website: https://pelican.dev
+submitter: The Pub
+submission: https://github.com/ThePubGG/umbrel
+repo: https://github.com/pelican-dev/panel
+support: https://github.com/pelican-dev/panel/issues
+gallery:
+  - https://pelican.dev/img/homepage/ss/1l.png
+  - https://pelican.dev/img/homepage/ss/4l.png
+  - https://pelican.dev/img/homepage/ss/5l.png
+releaseNotes: >-
+  Relicensing Pelican to AGPL. See the blog post [here](https://pelican.dev/blog).
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
